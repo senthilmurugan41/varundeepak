@@ -14,6 +14,6 @@ public class lines {
             count++;
             else continue;
         }
-        System.out.println(count);
+        System.out.println(count+1);
     }
 }
