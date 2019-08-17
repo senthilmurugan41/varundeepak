@@ -1,5 +1,5 @@
 import java.util.*;
-class sumofk
+class sumofk1
 {
     public static void main(String[] args)
     {
