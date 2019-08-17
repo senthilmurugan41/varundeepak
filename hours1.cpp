@@ -6,13 +6,11 @@ int main()
     cin>>a;
     while(a>60)
     {
-        b+=1;
-        a-=60;
+        b+=1; a-=60;
     }
     if(a==60) 
     {
-        b+=1;
-        a-=60;
+        b+=1; a-=60;
     }
     cout<<b<<" "<<a;
     return 0;
