@@ -9,7 +9,7 @@ public class numeric
         System.out.println("yes");}
         catch(Exception e)
         {
-            System.out.println("no");
+            System.out.println("No");
         }
     }
 }
